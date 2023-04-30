@@ -1,8 +1,7 @@
-Hello, I am l0ghead, or ~lh
+Hello, I am l0ghead (or, ~lh) 
 
-Usually on [Ctrl-c.club/~loghead/](https://ctrl-c.club/~loghead/) making [Ctrl-ZINE](https://ctrl-c.club/~loghead/ctrl-zine.html) (compiling issues, as it is 
-written/created by others on the Smol Web). I also have a tiny Linode server where I maintain [lh01.onl](https://lh01.onl), and
-will post an update in the [status.txt](https://lh01.onl/status.txt) file there sometimes.
+Usually making [Ctrl-ZINE](https://ctrl-c.club/~loghead/ctrl-zine.html) (compiling issues, as it is 
+written/created by others on the Smol Web).
 
 I started with Web dev in 2020, and that di/progressed into a deep interest in Sysadmin things. Just knowing what's what about 
 a Linux server and how it works - fascinating. 
