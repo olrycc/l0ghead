@@ -2,7 +2,7 @@ Hello, I am l0ghead (or, ~lh)
 
 Compiling [Ctrl-ZINE (^Z)](https://ctrl-c.club/~loghead/ctrl-zine.html)
 
-I started with Web dev in 2020, and that di/progressed into a deep interest in Sysadmin activities
+I started Web dev in 2020, and that di/progressed into a deep interest in Sysadmin activities
 
 No social media but I'm on IRC via #ctrl-c chat (tilde.chat)
 
