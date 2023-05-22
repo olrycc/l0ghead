@@ -1,12 +1,8 @@
-Hello, I am l0ghead (or, ~lh) 
+hello, I'm ~loghead
 
-Compiling [Ctrl-ZINE (^Z)](https://ctrl-c.club/~loghead/ctrl-zine.html)
+I'm unplugging for a bit, but I'll be on IRC/e-mail
 
-I started Web dev in 2020, and that di/progressed into a deep interest in Sysadmin activities
-
-No social media but I'm on IRC via #ctrl-c chat (tilde.chat)
-
-e-mail anytime! loghead@ctrl-c.club
+until later
 
 <!---
 l0ghead/l0ghead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
