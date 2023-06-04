@@ -1,8 +1,8 @@
-hello, I'm ~loghead
+hello, ~loghead here
 
-I'm unplugging for a bit, but I'll be on IRC/e-mail
+online less these days, but I'm on IRC/e-mail
 
-until later
+until later...
 
 <!---
 l0ghead/l0ghead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
